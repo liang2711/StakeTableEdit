@@ -1,0 +1,44 @@
+{
+    "primeExlP": {
+        "pipeLine":"管线",
+        "tempNo":"测绘临时编号",
+        "stakeType": "桩类型",
+        "latitude": "X",
+        "longitude": "Y",
+        "depth": "Z(85高程，桩根部)",
+        "pipeDepth": "管中埋深(米)",
+        "mileage": "里程",
+        "setover" : "偏距",
+        "buryTech": "埋设工艺",
+        "isInPoint": "是否出入土点",
+        "terrain": "地形",
+        "picture": "照片名",
+        "collectDate": "采集日期"
+    },
+    "primeExlL": {
+
+    },
+    "primeExlPFixedSizeWidth": {
+        "pipeLine":8.38,
+        "tempNo":10.75,
+        "stakeType": 8.38,
+        "latitude":9.38,
+        "longitude": 9.38,
+        "depth": 14.5,
+        "pipeDepth": 13,
+        "mileage": 8.38,
+        "setover" : 8.38,
+        "buryTech": 13.75,
+        "isInPoint": 10,
+        "terrain": 14,
+        "picture": 10,
+        "collectDate": 9
+    },
+    "primeExlLFixedSizeWidth": {
+
+    },
+    "primeExlFixedHeight": {
+        "title": 25,
+        "context": 15
+    }
+}
